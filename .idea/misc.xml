@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/activity_authentication.xml" value="0.1" />
+        <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/activity_gallery.xml" value="0.1" />
         <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/fragment_change_password.xml" value="0.1" />
+        <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/fragment_generate_otp.xml" value="0.1" />
+        <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/fragment_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/fragment_register.xml" value="0.2921875" />
+        <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/fragment_regiter.xml" value="0.1" />
+        <entry key="..\:/Users/HP/TtopGallery2/app/src/main/res/layout/fragment_reset_password.xml" value="0.1" />
       </map>
     </option>
   </component>
